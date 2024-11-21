@@ -1,0 +1,14 @@
+pytorch_lightning==2.0.2
+easydict==1.10
+einops==0.6.1
+ipdb==0.13.13
+numpy==1.24.3
+opencv-python-headless==4.5.5.62
+PyYAML==6.0
+scikit-image==0.21.0
+scipy==1.10.1
+sk-video==1.1.10
+tensorboard==2.13.0
+tqdm==4.65.0
+torch_optimizer==0.3.0
+kornia==0.5.10

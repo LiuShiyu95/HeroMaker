@@ -1,0 +1,20 @@
+name: "test"
+
+img_wh: [512, 512]
+canonical_wh: [512, 512]
+
+lr: 0.0005
+ref_idx: null # 0
+
+N_xyz_w: [8, 8, 8]
+self_bg: True
+
+deform_hash: True
+vid_hash: True
+
+batch_size: 1
+num_steps: 15000
+decay_step: [2500, 5000, 7500]
+annealed_begin_step: 4000
+annealed_step: 4000
+save_model_iters: 3000
