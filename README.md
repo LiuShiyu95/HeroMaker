@@ -14,8 +14,7 @@ HeroMaker is a multi-stage framework for human-centric video editing. This repo 
 Please follow the content of each part.
 
 ## Results
-
-### Video Editing Results Using Prompt
+<!-- ### Video Editing Results Using Prompt -->
 <img src="assets/results.gif"/>
 <!-- <img src='./assets/case0.gif' style="display: inline-block; width: 30%;"/>
 <img src='./assets/case1.gif' style="display: inline-block; width: 30%;"/>
