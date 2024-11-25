@@ -3,7 +3,6 @@
 
 [paper](./assets/paper.pdf)
 
-<img src='./assets/results.gif'></img>
 
 ## Introduction
 HeroMaker is a multi-stage framework for human-centric video editing. This repo have four parts:
@@ -13,6 +12,22 @@ HeroMaker is a multi-stage framework for human-centric video editing. This repo 
 - [Video Editing](./video_editing/) includes the code about video editing using prompt or user input.
 
 Please follow the content of each part.
+
+## Results
+
+### Video Editing Results Using Prompt
+<img src='./assets/case0.gif'></img>
+<img src='./assets/case1.gif'></img>
+<img src='./assets/case2.gif'></img>
+
+### Video Editing Results with User Input
+<img src='./assets/case3.gif'></img>
+<img src='./assets/case4.gif'></img>
+<img src='./assets/case5.gif'></img>
+
+### Multi People Video Editing Results
+<img src='./assets/case6.gif'></img>
+
 
 ## Acknowledge
 We build our code base from: [OSX](https://github.com/IDEA-Research/OSX), [mmpose](https://github.com/open-mmlab/mmpose/tree/main), [CoDeF](https://github.com/qiuyu96/CoDeF), [iPERCore](https://github.com/iPERDance/iPERCore), 
