@@ -16,9 +16,15 @@ Please follow the content of each part.
 ## Results
 
 ### Video Editing Results Using Prompt
-<img src='./assets/case0.gif' style="display: inline-block; width: 30%;"/>
+<!-- <img src='./assets/case0.gif' style="display: inline-block; width: 30%;"/>
 <img src='./assets/case1.gif' style="display: inline-block; width: 30%;"/>
-<img src='./assets/case2.gif' style="display: inline-block; width: 30%;"/>
+<img src='./assets/case2.gif' style="display: inline-block; width: 30%;"/> -->
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="assets/case0.gif" style="width: 30%;" />
+  <img src="assets/case1.gif" style="width: 30%;" />
+  <img src="assets/case2.gif" style="width: 30%;" />
+</div>
 
 ### Video Editing Results with User Input
 <img src='./assets/case3.gif' style="display: inline-block; width: 30%;"/>
