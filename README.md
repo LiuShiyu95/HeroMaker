@@ -16,17 +16,17 @@ Please follow the content of each part.
 ## Results
 
 ### Video Editing Results Using Prompt
-<img src='./assets/case0.gif'></img>
-<img src='./assets/case1.gif'></img>
-<img src='./assets/case2.gif'></img>
+<img src='./assets/case0.gif' style="display: inline-block; width: 30%;"/>
+<img src='./assets/case1.gif' style="display: inline-block; width: 30%;"/>
+<img src='./assets/case2.gif' style="display: inline-block; width: 30%;"/>
 
 ### Video Editing Results with User Input
-<img src='./assets/case3.gif'></img>
-<img src='./assets/case4.gif'></img>
-<img src='./assets/case5.gif'></img>
+<img src='./assets/case3.gif' style="display: inline-block; width: 30%;"/>
+<img src='./assets/case4.gif' style="display: inline-block; width: 30%;"/>
+<img src='./assets/case5.gif' style="display: inline-block; width: 30%;"/>
 
 ### Multi People Video Editing Results
-<img src='./assets/case6.gif'></img>
+<img src='./assets/case6.gif' style="display: inline-block; width: 30%;"/>
 
 
 ## Acknowledge
