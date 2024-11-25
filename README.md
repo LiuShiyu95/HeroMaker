@@ -16,11 +16,12 @@ Please follow the content of each part.
 ## Results
 
 ### Video Editing Results Using Prompt
+<img src="assets/results.gif"/>
 <!-- <img src='./assets/case0.gif' style="display: inline-block; width: 30%;"/>
 <img src='./assets/case1.gif' style="display: inline-block; width: 30%;"/>
 <img src='./assets/case2.gif' style="display: inline-block; width: 30%;"/> -->
 
-<div style="display: flex; justify-content: space-between;">
+<!-- <div style="display: flex; justify-content: space-between;">
   <img src="assets/case0.gif" style="width: 30%;" />
   <img src="assets/case1.gif" style="width: 30%;" />
   <img src="assets/case2.gif" style="width: 30%;" />
@@ -32,7 +33,7 @@ Please follow the content of each part.
 <img src='./assets/case5.gif' style="display: inline-block; width: 30%;"/>
 
 ### Multi People Video Editing Results
-<img src='./assets/case6.gif' style="display: inline-block; width: 30%;"/>
+<img src='./assets/case6.gif' style="display: inline-block; width: 30%;"/> -->
 
 
 ## Acknowledge
