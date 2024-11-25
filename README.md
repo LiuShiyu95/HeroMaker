@@ -23,7 +23,7 @@ Please follow the content of each part.
 <img src='./assets/case4.gif' style="display: inline-block; width: 60%;"/>
 
 ### Multi People Video Editing Results
-<img src='./assets/case6.gif' style="display: inline-block; width: 60%;"/> -->
+<img src='./assets/case6.gif' style="display: inline-block; width: 60%;"/>
 
 
 ## Acknowledge
